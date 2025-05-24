@@ -2,7 +2,7 @@
 
 🔧 Tools: Python, Pandas, Seaborn, Matplotlib
 
-🧠 Models: Logistic Regression, Random Forest, Decision Tree
+🧠 Models: Random Forest Classifier
 
 🎯 Accuracy: 75%
 
